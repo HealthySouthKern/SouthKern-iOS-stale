@@ -4,7 +4,4 @@
    <FileRef
       location = "group:/Users/eddierangel/Source/HealthySouthKern/SouthKern-iOS/SouthKern-iOS.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Pods/Pods.xcodeproj">
-   </FileRef>
 </Workspace>
